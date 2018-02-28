@@ -1,12 +1,5 @@
 <?php
 
-/*
-Title:      Thumb.php
-URL:        http://github.com/jamiebicknell/Thumb
-Author:     Jamie Bicknell
-Twitter:    @jamiebicknell
-*/
-
 define('THUMB_CACHE',           './cache/');    // Path to cache directory (must be writeable)
 define('THUMB_CACHE_AGE',       2592000);       // Duration of cached files in seconds
 define('THUMB_BROWSER_CACHE',   true);          // Browser cache true or false
